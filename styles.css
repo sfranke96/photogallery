@@ -24,3 +24,15 @@ nav li {
     height: 20px;
     text-transform: uppercase;
 }
+
+nav h2 {
+    visibility: hidden;
+    height: 1px;
+}
+
+[href="top"] {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 10px 0 0px 0px;
+}

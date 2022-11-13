@@ -1,0 +1,23 @@
+html {
+    background-color: #000;
+    padding: 25px;
+}
+
+body {
+    width: 1310px;
+    border: 10px solid #fff;
+    margin: 0 auto;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: #000;
+}
+
+nav li {
+    display: inline-block;
+    width: 655px;
+    height: 20px;
+    float: right;
+}

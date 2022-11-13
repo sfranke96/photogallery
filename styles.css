@@ -11,13 +11,17 @@ body {
     font-family: Arial, sans-serif;
 }
 
-header, footer {
-    background-color: #000;
+header {
+    color: #007D7B;
+    height: 40px;
+    width: 420px;
 }
 
 nav li {
+    list-style: none;
     display: inline-block;
+    margin: 10px;
     width: 655px;
     height: 20px;
-    float: right;
+    text-transform: uppercase;
 }

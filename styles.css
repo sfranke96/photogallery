@@ -26,15 +26,6 @@ nav li {
     text-transform: uppercase;
 }
 
-nav p {
-    float: left;
-}
-
-nav h2 {
-    font-size: 40px;
-    float: right;
-}
-
 [href="#top"] {
     position: fixed;
     bottom: 0px;
@@ -42,7 +33,12 @@ nav h2 {
     border-radius: 10px 0 0px 0px;
 }
 
+main h2 {
+    font-size: 40px;
+    float: right;
+}
+
 .photos {
    width: 420px;
-   float: none; 
+   float: inline-start; 
 }

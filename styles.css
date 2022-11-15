@@ -15,24 +15,34 @@ header {
     color: #007D7B;
     height: 40px;
     width: 420px;
+    background-color: #000;
 }
 
 nav li {
     list-style: none;
-    display: inline-block;
+    float: right;
     color: #fff;
     height: 20px;
     text-transform: uppercase;
 }
 
-nav h2 {
-    visibility: hidden;
-    height: 1px;
+nav p {
+    float: left;
 }
 
-[href="top"] {
+nav h2 {
+    font-size: 40px;
+    float: right;
+}
+
+[href="#top"] {
     position: fixed;
     bottom: 0px;
     right: 0px;
     border-radius: 10px 0 0px 0px;
+}
+
+.photos {
+   width: 420px;
+   float: none; 
 }

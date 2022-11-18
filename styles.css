@@ -68,7 +68,6 @@ main h2 {
     float: left;
     height: 420px;
     width: 850px;
-    margin-top: 5px;
     clear: both;
 }
 
@@ -82,9 +81,28 @@ main h2 {
     text-align: left;
 }
 
-.photos {
+#first-row {
    width: 420px;
-   float: inline-block; 
+   height: 218px;
+   display: inline-block; 
+}
+
+#second-row {
+   width: 420px;
+   height: 630px;
+   display: inline-block; 
+}
+
+#third-row {
+   width: 420px;
+   height: 218px;
+   display: inline-block; 
+}
+
+#fourth-row {
+   width: 420px;
+   height: 218px;
+   display: inline-block; 
 }
 
 form {

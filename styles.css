@@ -63,6 +63,12 @@ main h2 {
     text-align: right;
 }
 
+.self {
+    float: right;
+    height: 420px;
+    width: 850px;
+}
+
 .intro {
     text-align: right;
 }

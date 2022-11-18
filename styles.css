@@ -79,33 +79,39 @@ main h2 {
     text-align: left;
 }
 
-#first-row {
+#first-row, #third-row, #fourth-row {
    width: 420px;
    height: 218px;
    display: inline-block; 
-   margin: auto;
+   position: relative;
+   margin: 3%;
+}
+
+.Chile {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Guatemala {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Hawaii {
+    position: absolute;
+    top: 5px;
+    right: 5px;
 }
 
 #second-row {
    width: 420px;
    height: 630px;
    display: inline-block; 
-   margin: auto;
 }
 
-#third-row {
-   width: 420px;
-   height: 218px;
-   display: inline-block; 
-   margin: auto;
-}
 
-#fourth-row {
-   width: 420px;
-   height: 218px;
-   display: inline-block; 
-   margin: auto;
-}
 
 form {
     width: 850px;

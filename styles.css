@@ -105,13 +105,65 @@ main h2 {
     right: 5px;
 }
 
+.Moab {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Rocky {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Switzerland {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.UK {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.USA {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Wyoming {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
 #second-row {
    width: 420px;
    height: 630px;
    display: inline-block; 
 }
 
+.Iran {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
 
+.Ireland {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.Italy {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
 
 form {
     width: 850px;

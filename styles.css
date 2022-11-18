@@ -64,7 +64,7 @@ main h2 {
 }
 
 .self {
-    float: right;
+    float: left;
     height: 420px;
     width: 850px;
     margin-top: 5px;

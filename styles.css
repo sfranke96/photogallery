@@ -61,6 +61,7 @@ nav a:hover {
 main h2 {
     font-size: 40px;
     text-align: right;
+    clear: both;
 }
 
 .self {
@@ -68,11 +69,13 @@ main h2 {
     height: 420px;
     width: 850px;
     margin-top: 5px;
+    clear: both;
 }
 
 .intro {
     text-align: right;
     margin-top: 5px;
+    clear: both;
 }
 
 .highlights h2 {

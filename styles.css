@@ -64,7 +64,7 @@ main h2 {
     clear: both;
 }
 
-#self {
+.self {
     float: left;
     width: 850px;
     clear: both;
@@ -79,7 +79,7 @@ main h2 {
     text-align: left;
 }
 
-#first-row, #third-row, #fourth-row {
+.first-row, .third-row, .fourth-row {
    width: 420px;
    height: 218px;
    display: inline-block; 
@@ -141,7 +141,7 @@ main h2 {
     left: 5px;
 }
 
-#second-row {
+.second-row {
    width: 420px;
    height: 630px;
    display: inline-block; 

@@ -20,15 +20,19 @@
         </nav>
     </header>
     <main>
-        <h2>About</h2>
+        <h2>ABOUT</h2>
         <section class="self">
         <p><img src="photos/TK.png" alt="artsy photographer picture"></p>
         </section>
+        <section class="intro">
         <p>Hello!<br> 
         I’m TK and I’m a photographer. <br>I love looking at life through the lens of my<br> camera. Landscape photography is my<br> speciality and it’s taken me all over the world. </p>
-        <h2>Gallery</h2>
-        <p>Here are some highlights of my work. 
+        </section>
+        <section class="highlights">
+          <h2>GALLERY</h2>
+          <p>Here are some highlights of my work. 
         The locations and year are in the caption. </p>
+        </section>
         <section class="photos">
             <h3><img src="photos/Chile.png" alt="chile, 2001">
             Chile, 2001</h3>
@@ -66,19 +70,22 @@
             <h3><img src="photos/Wyoming.png" alt="wyoming, 2021">
             Wyoming, 2021</h3>
         </section>
+     </main>
         <form>
-            <h2>Contact</h2>
+            <h2>CONTACT</h2>
             <p>Please fill out this form and I’ll connect with you soon.</p>
-
-            Your contact information
-            Name (Your full name)
-            Email (Enter your email address)
-            Message (What can I help you with?)
-            Submit
+            <fieldset>
+              <label for="full-name"> NAME<br> <input id="full-name" name="full-name" type="text" required placeholder="YOUR FULL NAME"> 
+              </label><br>
+              <label for="email"> EMAIL<br> <input id="email" name="email" type="text" required placeholder="ENTER YOUR EMAIL">
+              </label><br>
+              <label for="message"> MESSAGE<br> <input id="message" name="message" type="text" required placeholder="WHAT CAN I HELP YOU WITH?">
+              </label><br>
+            <input href="#submit" type="submit" value="SUBMIT">
+            </fieldset>
         </form>
-    </main>
     <footer>
-        Copyright 2021 TK Photography
+      <small>Copyright 2021 TK Photography</small>
     </footer>
     </body>
 </html>

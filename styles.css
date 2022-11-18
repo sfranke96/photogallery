@@ -3,7 +3,7 @@ html {
     padding: 25px;
 }
 
-body {
+main {
     width: 1310px;
     border: 10px solid #fff;
     margin: 0 auto;
@@ -13,32 +13,111 @@ body {
 
 header {
     color: #007D7B;
-    height: 40px;
-    width: 420px;
     background-color: #000;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 0 auto;
+}
+
+header h1 {
+    margin-bottom: -80px;
+    text-transform: uppercase;
 }
 
 nav li {
-    list-style: none;
+    display: inline-flex;
     float: right;
     color: #fff;
     height: 20px;
     text-transform: uppercase;
+    padding: 20px;
+}
+
+nav {
+    padding-bottom: 80px;
+}
+
+nav a {
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a:hover {
+    color: #007D7B;
+    background-color: #fff;
+    height: 20px;
 }
 
 [href="#top"] {
     position: fixed;
+    text-align: center;
     bottom: 0px;
     right: 0px;
+    background-color: #007D7B;
     border-radius: 10px 0 0px 0px;
 }
 
 main h2 {
     font-size: 40px;
-    float: right;
+    text-align: right;
+}
+
+.intro {
+    text-align: right;
+}
+
+.highlights h2 {
+    text-align: left;
 }
 
 .photos {
    width: 420px;
-   float: inline; 
+   float: inline-block; 
+}
+
+form {
+    width: 850px;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+}
+
+fieldset {
+    border: none;
+    padding: 2rem 0;
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+input {
+    margin: 10px 0 0 0;
+    width: 100%;
+    height: 40px;
+}
+
+input::placeholder {
+    color: #007D7B;
+}
+
+[href="#submit"] {
+    width: 50%;
+    height: 40px;
+    display: block;
+    margin: 1em auto;
+    margin-top: -10px;
+    color: #fff;
+    background-color: #007D7B;
+}
+
+small {
+    color: #fff;
+}
+
+footer {
+    text-align: center;
 }

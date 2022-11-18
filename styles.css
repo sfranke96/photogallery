@@ -67,6 +67,7 @@ main h2 {
     float: right;
     height: 420px;
     width: 850px;
+    margin-top: 5px;
 }
 
 .intro {

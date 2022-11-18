@@ -66,14 +66,12 @@ main h2 {
 
 #self {
     float: left;
-    height: 420px;
     width: 850px;
     clear: both;
 }
 
 .intro {
     text-align: right;
-    margin-top: 5px;
     clear: both;
 }
 
@@ -85,24 +83,28 @@ main h2 {
    width: 420px;
    height: 218px;
    display: inline-block; 
+   margin: auto;
 }
 
 #second-row {
    width: 420px;
    height: 630px;
    display: inline-block; 
+   margin: auto;
 }
 
 #third-row {
    width: 420px;
    height: 218px;
    display: inline-block; 
+   margin: auto;
 }
 
 #fourth-row {
    width: 420px;
    height: 218px;
    display: inline-block; 
+   margin: auto;
 }
 
 form {

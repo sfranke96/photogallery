@@ -69,7 +69,7 @@ main h2 {
 .self {
     width: 850px;
     display: inline-block;
-    margin-top: -50px;
+    margin-top: -80px;
 }
 
 .intro {
@@ -80,7 +80,7 @@ main h2 {
 
 .highlights h2 {
     text-align: left;
-    margin-top: -100px;
+    margin-top: -90px;
 }
 
 .first-row, .second-row, .third-row, .fourth-row {

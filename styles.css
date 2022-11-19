@@ -67,11 +67,15 @@ main h2 {
 .self {
     width: 850px;
     display: inline-block;
+    border-bottom: 5px;
+    border-top: 5px;
 }
 
 .intro {
     text-align: right;
     clear: both;
+    border-bottom: 5px;
+    border-top: 5px;
 }
 
 .highlights h2 {

@@ -62,7 +62,7 @@ main h2 {
     font-size: 40px;
     text-align: right;
     clear: both;
-    margin-top: -10px;
+    margin-top: -30px;
 }
 
 .self {
@@ -75,18 +75,18 @@ main h2 {
 .intro {
     text-align: right;
     clear: both;
-    margin-top: -50px;
+    margin-top: -60px;
 }
 
 .highlights h2 {
     text-align: left;
-    margin-top: -50px;
+    margin-top: -60px;
 }
 
 .first-row, .second-row, .third-row, .fourth-row {
    display: inline-block; 
    position: relative;
-   padding: 10px;
+   padding: 5px;
 }
 
 .Chile {
@@ -99,7 +99,7 @@ main h2 {
 .Guatemala {
     position: absolute;
     top: 5px;
-    left: 5px;
+    left: 500px;
 }
 
 .Hawaii {
@@ -118,7 +118,7 @@ main h2 {
 .Ireland {
     position: absolute;
     top: 5px;
-    left: 5px;
+    left: 500px;
 }
 
 .Italy {
@@ -137,7 +137,7 @@ main h2 {
 .Rocky {
     position: absolute;
     top: 5px;
-    left: 5px;
+    left: 500px;
 }
 
 .Switzerland {
@@ -156,7 +156,7 @@ main h2 {
 .USA {
     position: absolute;
     top: 5px;
-    left: 5px;
+    left: 500px;
 }
 
 .Wyoming {

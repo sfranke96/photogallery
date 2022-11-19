@@ -74,12 +74,12 @@ main h2 {
 .intro {
     text-align: right;
     clear: both;
-    border-bottom: 5px;
-    border-top: 5px;
+    margin-top: -200px;
 }
 
 .highlights h2 {
     text-align: left;
+    margin-top: -100px;
 }
 
 .first-row, .second-row, .third-row, .fourth-row {

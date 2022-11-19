@@ -66,10 +66,9 @@ main h2 {
 }
 
 .self {
-    float: left;
+    float: inline-start;
     width: 850px;
-    clear: both;
-    margin-top: -120px;
+    display: inline-block;
 }
 
 .intro {

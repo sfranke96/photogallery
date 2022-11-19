@@ -78,6 +78,10 @@ main h2 {
     margin-top: -200px;
 }
 
+.highlights {
+    padding: 5px;
+}
+
 .highlights h2 {
     text-align: left;
     margin-top: -90px;
@@ -87,6 +91,7 @@ main h2 {
    display: inline-block; 
    position: relative;
    padding: 5px;
+   font-size: 16px;
 }
 
 .Chile {
@@ -100,12 +105,14 @@ main h2 {
     position: absolute;
     top: 5px;
     left: 450px;
+    color: #fff;
 }
 
 .Hawaii {
     position: absolute;
     top: 5px;
     right: 5px;
+    color: #fff;
 }
 
 .Iran {

@@ -108,6 +108,7 @@ main h2 {
     position: absolute;
     top: 5px;
     left: 5px;
+    float: left;
 }
 
 .Rocky {
@@ -126,6 +127,7 @@ main h2 {
     position: absolute;
     top: 5px;
     left: 5px;
+    float: left;
 }
 
 .USA {
@@ -150,6 +152,7 @@ main h2 {
     position: absolute;
     top: 5px;
     left: 5px;
+    float: left;
 }
 
 .Ireland {

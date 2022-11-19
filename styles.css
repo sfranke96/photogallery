@@ -62,6 +62,7 @@ main h2 {
     font-size: 40px;
     text-align: right;
     clear: both;
+    margin-top: -10px;
 }
 
 .self {
@@ -74,10 +75,12 @@ main h2 {
 .intro {
     text-align: right;
     clear: both;
+    margin-top: -50px;
 }
 
 .highlights h2 {
     text-align: left;
+    margin-top: -50px;
 }
 
 .first-row, .second-row, .third-row, .fourth-row {
@@ -121,7 +124,7 @@ main h2 {
 .Italy {
     position: absolute;
     top: 5px;
-    left: 5px;
+    right: 5px;
 }
 
 .Moab {
@@ -140,7 +143,7 @@ main h2 {
 .Switzerland {
     position: absolute;
     top: 5px;
-    left: 5px;
+    right: 5px;
 }
 
 .UK {
@@ -159,7 +162,7 @@ main h2 {
 .Wyoming {
     position: absolute;
     top: 5px;
-    left: 5px;
+    right: 5px;
 }
 
 form {

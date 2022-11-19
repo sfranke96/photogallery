@@ -75,7 +75,7 @@ main h2 {
 .intro {
     text-align: right;
     clear: both;
-    margin-top: -200px;
+    margin-top: -190px;
 }
 
 .highlights {
@@ -109,7 +109,7 @@ main h2 {
 
 .Hawaii {
     position: absolute;
-    top: 5px;
+    bottom: 5px;
     right: 5px;
     color: #fff;
 }
@@ -130,8 +130,8 @@ main h2 {
 
 .Italy {
     position: absolute;
-    top: 5px;
-    right: 5px;
+    bottom: 5px;
+    left: 5px;
     color: #fff;
 }
 

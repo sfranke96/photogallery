@@ -202,6 +202,10 @@ input {
     height: 40px;
 }
 
+input::placeholder {
+    color: #007D7B;
+}
+
 input[type="submit"] {
     width: 50%;
     height: 40px;

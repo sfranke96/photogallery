@@ -80,8 +80,6 @@ main h2 {
 }
 
 .first-row, .third-row, .fourth-row {
-   width: 420px;
-   height: 218px;
    display: inline-block; 
    position: relative;
    margin: 3%;
@@ -142,9 +140,9 @@ main h2 {
 }
 
 .second-row {
-   width: 420px;
-   height: 630px;
    display: inline-block; 
+   position: inline-block;
+   margin: 3%;
 }
 
 .Iran {

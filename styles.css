@@ -69,7 +69,7 @@ main h2 {
 .self {
     width: 850px;
     display: inline-block;
-    margin-top: -80px;
+    margin-top: -100px;
 }
 
 .intro {
@@ -125,12 +125,14 @@ main h2 {
     position: absolute;
     top: 5px;
     left: 450px;
+    colot: #fff;
 }
 
 .Italy {
     position: absolute;
     top: 5px;
     right: 5px;
+    color: #fff;
 }
 
 .Moab {
@@ -138,6 +140,7 @@ main h2 {
     top: 5px;
     left: 5px;
     float: left;
+    color: #fff;
 }
 
 .Rocky {
@@ -157,18 +160,21 @@ main h2 {
     top: 5px;
     left: 5px;
     float: left;
+    color: #fff;
 }
 
 .USA {
     position: absolute;
     top: 5px;
     left: 450px;
+    color: #fff;
 }
 
 .Wyoming {
     position: absolute;
     top: 5px;
     right: 5px;
+    color: #fff;
 }
 
 form {
@@ -205,6 +211,7 @@ input::placeholder {
     display: block;
     margin: 1em auto;
     margin-top: -10px;
+    text-align: center;
     color: #fff;
     background-color: #007D7B;
 }

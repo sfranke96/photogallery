@@ -86,7 +86,7 @@ main h2 {
 .first-row, .second-row, .third-row, .fourth-row {
    display: inline-block; 
    position: relative;
-   padding: 5px;
+   padding: 10px;
 }
 
 .Chile {

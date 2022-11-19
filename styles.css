@@ -193,6 +193,7 @@ fieldset {
 
 label {
     display: block;
+    width: 850px;
 }
 
 input {

@@ -205,7 +205,7 @@ input::placeholder {
     color: #007D7B;
 }
 
-[href="#submit"] {
+input[type="#submit"] {
     width: 50%;
     height: 40px;
     display: block;
